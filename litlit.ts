@@ -6,7 +6,7 @@
             "address":"TXPJ4vSqsVJE1dYfN8bhNcjFoTyfFic5E8",
             "chainId":1,
             "decimals":18,
-            "name":"PUMP WUKONG",
+            "name":"PumpWukong",
             "logoURI":"https://png.pngtree.com/png-clipart/20190520/original/pngtree-qitian-dasheng-sun-wukong-comic-character-design-charactersjourney-to-the-png-image_4025730.jpg"
         },
         {
