@@ -2,12 +2,12 @@
     "name":"JustSwap Default List",
     "tokens":[
         {
-            "symbol":"SUN",
-            "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+            "symbol":"PWUKONG",
+            "address":"TXPJ4vSqsVJE1dYfN8bhNcjFoTyfFic5E8",
             "chainId":1,
             "decimals":18,
-            "name":"SUN TOKEN",
-            "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
+            "name":"PUMP WUKONG",
+            "logoURI":"https://png.pngtree.com/png-clipart/20190520/original/pngtree-qitian-dasheng-sun-wukong-comic-character-design-charactersjourney-to-the-png-image_4025730.jpg"
         },
         {
             "symbol":"BTC",
